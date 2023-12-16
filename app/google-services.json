@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464463547790",
+    "firebase_url": "https://examen3p-ivo-rivera-default-rtdb.firebaseio.com",
+    "project_id": "examen3p-ivo-rivera",
+    "storage_bucket": "examen3p-ivo-rivera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464463547790:android:a8bb567e99927da04028df",
+        "android_client_info": {
+          "package_name": "com.example.exam3p_ivorivera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Q5r4qZZr6pyDuPLJr0fKYRDVFkTENFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
